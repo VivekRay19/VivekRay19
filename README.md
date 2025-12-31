@@ -55,12 +55,12 @@ I am a Computer Science student from **India** with a passion for understanding 
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekray2006&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekRay19&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekray2006&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekRay19&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=vivekray2006&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VivekRay19&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </div>

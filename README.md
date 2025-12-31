@@ -45,10 +45,10 @@ I am a Computer Science student from **India** passionate about the "magic" that
 
 | Repository | Synopsis | Stack |
 | :--- | :--- | :--- |
-| **[Phad: The Living Scroll](https://github.com/VivekRay19/Phad-The-Living-Scroll)** | Immersive digital heritage experience using **ScrollTrigger** narratives and "The Digital Bhopa"—a custom AI chatbot guide. | `React` `GSAP` `AI` |
+| **[Phad: The Living Scroll](https://github.com/VivekRay19/Phad-The-Living-Scroll)** <br> [🚀 **View Live Site**](https://vivekray19.github.io/Phad-The-Living-Scroll/index.html) | Immersive digital heritage experience using **ScrollTrigger** narratives and "The Digital Bhopa"—a custom AI chatbot guide. | `React` `GSAP` `AI` |
+| **[Sage Perfumes](https://github.com/VivekRay19/sage-perfumes)** <br> [🛍️ **View Live Shop**](https://vivekray19.github.io/Sage-Perfume/) | A multi-page responsive e-commerce interface featuring dynamic search filtering, cart logic, and modern CSS gradients. | `JS` `Frontend` |
 | **[Y86 Assembler](https://github.com/VivekRay19/y86-assembler)** | A low-level assembler translating `.ys` assembly files into machine code (Y86-64), featuring symbol table resolution. | `C` `Systems` |
 | **[Client Server Chat](https://github.com/VivekRay19/client-server-chat)** | TCP/IP connection handling using the **BSD Socket API** to establish reliable message exchange. | `C` `Networking` |
-| **[Sage Perfumes](https://github.com/VivekRay19/sage-perfumes)** | A multi-page responsive e-commerce interface featuring dynamic search filtering, cart logic, and modern CSS gradients. | `JS` `Frontend` |
 | **[Sorting Algorithms](https://github.com/VivekRay19/sorting-algorithms)** | Implementation and **complexity analysis** of Bubble Sort and Binary Search Tree (BST) logic. | `C` `Algorithms` |
 | **[Base Conversion](https://github.com/VivekRay19/base-conversion)** | CLI tool for converting numbers between bases 2-36 with strict input validation and error handling. | `C` `Math` |
 

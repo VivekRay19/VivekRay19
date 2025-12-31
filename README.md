@@ -45,11 +45,12 @@ I am a Computer Science student from **India** passionate about the "magic" that
 
 | Repository | Synopsis | Stack |
 | :--- | :--- | :--- |
-| **[Phad: The Living Scroll](https://github.com/VivekRay19/Phad-The-Living-Scroll)** | Digital heritage experience featuring **"The Digital Bhopa"**—a custom AI chatbot built with React & Framer Motion that acts as a traditional folklore guide. | `React` `GSAP` `AI` |
-| **[Y86 Assembler](https://github.com/VivekRay19/y86-assembler)** | A robust two-pass assembler translating assembly to machine code (Y86-64). | `C` `Systems` |
-| **[Client Server Chat](https://github.com/VivekRay19/client-server-chat)** | TCP/IP connection handling using BSD sockets and concurrent logic. | `C` `Networking` |
-| **[Sorting Algorithms](https://github.com/VivekRay19/sorting-algorithms)** | Implementation of Bubble Sort and Binary Search Tree logic and analysis. | `C` `Algorithms` |
-| **[Base Conversion](https://github.com/VivekRay19/base-conversion)** | CLI tool for converting numbers between bases 2-36 with validation. | `C` `Math` |
+| **[Phad: The Living Scroll](https://github.com/VivekRay19/Phad-The-Living-Scroll)** | Immersive digital heritage experience using **ScrollTrigger** narratives and "The Digital Bhopa"—a custom AI chatbot guide. | `React` `GSAP` `AI` |
+| **[Y86 Assembler](https://github.com/VivekRay19/y86-assembler)** | A low-level assembler translating `.ys` assembly files into machine code (Y86-64), featuring symbol table resolution. | `C` `Systems` |
+| **[Client Server Chat](https://github.com/VivekRay19/client-server-chat)** | TCP/IP connection handling using the **BSD Socket API** to establish reliable message exchange. | `C` `Networking` |
+| **[Sage Perfumes](https://github.com/VivekRay19/sage-perfumes)** | A multi-page responsive e-commerce interface featuring dynamic search filtering, cart logic, and modern CSS gradients. | `JS` `Frontend` |
+| **[Sorting Algorithms](https://github.com/VivekRay19/sorting-algorithms)** | Implementation and **complexity analysis** of Bubble Sort and Binary Search Tree (BST) logic. | `C` `Algorithms` |
+| **[Base Conversion](https://github.com/VivekRay19/base-conversion)** | CLI tool for converting numbers between bases 2-36 with strict input validation and error handling. | `C` `Math` |
 
 ---
 

@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Vivek%20Ray&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Systems%20%7C%20Low-Level%20Logic%20%7C%20Web&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=c49102&height=220&section=header&text=Vivek%20Ray&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=1a1a1a&desc=Systems%20%7C%20Low-Level%20Logic%20%7C%20Web&descAlignY=55&descSize=20&descColor=1a1a1a" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Building+Low-Level+Systems...;Compiling+C%2FC%2B%2B+Solutions...;Crafting+Web+Experiences...;Explored+Linux+Architecture." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C49102&center=true&vCenter=true&width=435&lines=Building+Low-Level+Systems...;Compiling+C%2FC%2B%2B+Solutions...;Crafting+Web+Experiences...;Explored+Linux+Architecture." alt="Typing SVG" />
   </a>
 </div>
 
@@ -55,7 +55,7 @@ I am a Computer Science student from **India** passionate about the "magic" that
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=c49102&height=2&section=footer" width="100%"/>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=VivekRay19&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VivekRay19&label=PROFILE%20VIEWS&color=c49102&style=for-the-badge" alt="profile views" />
 </div>

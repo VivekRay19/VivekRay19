@@ -35,7 +35,7 @@ I am a Computer Science student from **India** passionate about the "magic" that
 
 | **Core Systems** | **Web Tech** | **Dev Ops & Tools** |
 |:---:|:---:|:---:|
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
 </div>
 
@@ -45,11 +45,11 @@ I am a Computer Science student from **India** passionate about the "magic" that
 
 | Repository | Synopsis | Stack |
 | :--- | :--- | :--- |
+| **[Phad: The Living Scroll](https://github.com/VivekRay19/Phad-The-Living-Scroll)** | Digital heritage experience featuring **"Ask Bhopa"**—a custom AI chatbot built with React & Framer Motion that acts as a traditional folklore guide. | `React` `GSAP` `AI` |
 | **[Y86 Assembler](https://github.com/VivekRay19/y86-assembler)** | A robust two-pass assembler translating assembly to machine code (Y86-64). | `C` `Systems` |
+| **[Client Server Chat](https://github.com/VivekRay19/client-server-chat)** | TCP/IP connection handling using BSD sockets and concurrent logic. | `C` `Networking` |
 | **[Sorting Algorithms](https://github.com/VivekRay19/sorting-algorithms)** | Implementation of Bubble Sort and Binary Search Tree logic and analysis. | `C` `Algorithms` |
 | **[Base Conversion](https://github.com/VivekRay19/base-conversion)** | CLI tool for converting numbers between bases 2-36 with validation. | `C` `Math` |
-| **[Client Server Chat](https://github.com/VivekRay19/client-server-chat)** | TCP/IP connection handling using BSD sockets and concurrent logic. | `C` `Networking` |
-| **[Personal Website](#)** | Responsive portfolio interface with custom CSS animations and layout. | `HTML` `CSS` `JS` |
 
 ---
 

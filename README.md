@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Vivek 👋
 
-<!--
-**VivekRay19/VivekRay19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Interested in Systems Programming, Networking & Web Development  
+🔍 Strong foundations in Data Structures, C/C++, and low-level systems
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Languages: C, C++, JavaScript
+- Core CS: Data Structures, Algorithms, OS basics
+- Systems: Y86 Assembly, Client–Server Programming
+- Web: HTML, CSS, JavaScript
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+⬇️ Check pinned repositories below
+
+## 📫 Contact
+- Email: vivekray2519@gmail.com
+- LinkedIn: www.linkedin.com/in/vivekray2006

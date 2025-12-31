@@ -45,7 +45,7 @@ I am a Computer Science student from **India** passionate about the "magic" that
 
 | Repository | Synopsis | Stack |
 | :--- | :--- | :--- |
-| **[Phad: The Living Scroll](https://github.com/VivekRay19/Phad-The-Living-Scroll)** | Digital heritage experience featuring **"Ask Bhopa"**—a custom AI chatbot built with React & Framer Motion that acts as a traditional folklore guide. | `React` `GSAP` `AI` |
+| **[Phad: The Living Scroll](https://github.com/VivekRay19/Phad-The-Living-Scroll)** | Digital heritage experience featuring **"The Digital Bhopa"**—a custom AI chatbot built with React & Framer Motion that acts as a traditional folklore guide. | `React` `GSAP` `AI` |
 | **[Y86 Assembler](https://github.com/VivekRay19/y86-assembler)** | A robust two-pass assembler translating assembly to machine code (Y86-64). | `C` `Systems` |
 | **[Client Server Chat](https://github.com/VivekRay19/client-server-chat)** | TCP/IP connection handling using BSD sockets and concurrent logic. | `C` `Networking` |
 | **[Sorting Algorithms](https://github.com/VivekRay19/sorting-algorithms)** | Implementation of Bubble Sort and Binary Search Tree logic and analysis. | `C` `Algorithms` |

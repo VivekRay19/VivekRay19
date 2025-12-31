@@ -47,7 +47,7 @@ I am a Computer Science student from **India** passionate about the "magic" that
 | :--- | :--- | :--- |
 | **[Y86 Assembler](https://github.com/VivekRay19/y86-assembler)** | A robust two-pass assembler translating assembly to machine code (Y86-64). | `C` `Systems` |
 | **[Sorting Algorithms](https://github.com/VivekRay19/sorting-algorithms)** | Implementation of Bubble Sort and Binary Search Tree logic and analysis. | `C` `Algorithms` |
-| **[Base Conversion](#)** | A low-level utility tool for Binary, Decimal, and Hexadecimal bit manipulation. | `C++` `Math` |
+| **[Base Conversion](https://github.com/VivekRay19/base-conversion)** | CLI tool for converting numbers between bases 2-36 with validation. | `C` `Math` |
 | **[Client Server Chat](#)** | Multithreaded server handling concurrent connections via BSD sockets. | `C++` `TCP/IP` |
 | **[Personal Website](#)** | Responsive portfolio interface with custom CSS animations and layout. | `HTML` `CSS` `JS` |
 

@@ -45,8 +45,8 @@ I am a Computer Science student from **India** passionate about the "magic" that
 
 | Repository | Synopsis | Stack |
 | :--- | :--- | :--- |
-| **[Y86 Assembler](https://github.com/VivekRay19/y86-assembler)** | A robust two-pass assembler translating assembly to machine code (Y86-64). | `C` |
-| **[Sorting Algorithms](#)** | Efficiency analysis and implementation of Bubble, Merge, and Quick sort. | `Python` `C++` |
+| **[Y86 Assembler](https://github.com/VivekRay19/y86-assembler)** | A robust two-pass assembler translating assembly to machine code (Y86-64). | `C` `Systems` |
+| **[Sorting Algorithms](https://github.com/VivekRay19/sorting-algorithms)** | Implementation of Bubble Sort and Binary Search Tree logic and analysis. | `C` `Algorithms` |
 | **[Base Conversion](#)** | A low-level utility tool for Binary, Decimal, and Hexadecimal bit manipulation. | `C++` `Math` |
 | **[Client Server Chat](#)** | Multithreaded server handling concurrent connections via BSD sockets. | `C++` `TCP/IP` |
 | **[Personal Website](#)** | Responsive portfolio interface with custom CSS animations and layout. | `HTML` `CSS` `JS` |

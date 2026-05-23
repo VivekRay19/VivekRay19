@@ -45,7 +45,7 @@ I am a Computer Science student from **India** passionate about the "magic" that
 
 | Repository | Synopsis | Stack |
 | :--- | :--- | :--- |
-| **[Phad: The Living Scroll](https://github.com/VivekRay19/Phad-The-Living-Scroll)** <br> [🚀 **View Live Site**](https://vivekray19.github.io/Phad-The-Living-Scroll/index.html) | Immersive digital heritage experience using **ScrollTrigger** narratives and "The Digital Bhopa"—a custom AI chatbot guide. | `React` `GSAP` `AI` |
+| **[Phad: The Living Scroll](https://github.com/VivekRay19/Phad-The-Living-Scroll)** <br> [🚀 **View Live Site**](https://phad-the-living-scroll.vercel.app/) | Immersive digital heritage experience using **ScrollTrigger** narratives and "The Digital Bhopa"—a custom AI chatbot guide. | `React` `GSAP` `AI` |
 | **[Sage Perfumes](https://github.com/VivekRay19/sage-perfumes)** <br> [🛍️ **View Live Shop**](https://sage-perfume.vercel.app/) | A multi-page responsive e-commerce interface featuring dynamic search filtering, cart logic, and modern CSS gradients. | `JS` `Frontend` |
 | **[Y86 Assembler](https://github.com/VivekRay19/y86-assembler)** | A low-level assembler translating `.ys` assembly files into machine code (Y86-64), featuring symbol table resolution. | `C` `Systems` |
 | **[Client Server Chat](https://github.com/VivekRay19/client-server-chat)** | TCP/IP connection handling using the **BSD Socket API** to establish reliable message exchange. | `C` `Networking` |
